@@ -1,0 +1,11 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+.venv/
+env/
+
+# Bỏ qua các file cache và lịch sử biên dịch của Python
+__pycache__/
+*.pyc
+
+# Các file hệ thống khác
+.DS_Store
