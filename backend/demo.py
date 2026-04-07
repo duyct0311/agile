@@ -2,7 +2,7 @@ from google import genai
 import sys
 
 # Cấu hình Client
-API_KEY = "AIzaSyCWbP4LFCoxwlbu28DnplllwRELsh2EVM4"  # <-- THAY KEY CỦA DUY VÀO ĐÂY
+API_KEY = "key4"  # <-- THAY KEY CỦA DUY VÀO ĐÂY
 client = genai.Client(api_key=API_KEY)
 
 def chat_realtime():
